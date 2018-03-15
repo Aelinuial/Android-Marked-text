@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/type_up"
+        android:title="字体放大"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/type_down"
+        android:title="字体减小"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/add_label"
+        android:title="标注类型1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/add_label2"
+        android:title="标注类型2"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/add_label3"
+        android:title="标注类型3"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/show_label"
+        android:title="显示标注"
+        app:showAsAction="never"/>
+</menu>
